@@ -1,0 +1,28 @@
+.get_started{
+
+    background: radial-gradient(64.18% 64.18% at 71.16% 35.69%, #DEF9FA 0.89%, #BEF3F5 17.23%, #9DEDF0 42.04%, #7DE7EB 55.12%, #5CE1E6 71.54%, #33BBCF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background-clip:text;
+    color: transparent;
+    border: 2px solid;
+    font-size: 18px;
+    font-weight: 600;
+    width: 110px;
+    height:110px;
+    border-radius:50% ;
+    border-color: #54fffff2;
+    margin-left: -90px;
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+.get_started p{
+    font-size: 19px;
+    margin-top:20px;
+    font-weight: 700px;
+    font-size: 20px;
+
+}
+.get_started p img{
+    display: inline;
+
+}
