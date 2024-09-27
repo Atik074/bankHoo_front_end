@@ -3,7 +3,7 @@ import {logo}  from '../../../assets/index'
 
 const Navbar = () => {
     return (
-        <div className='flex justify-between items-center bg-black'>
+        <div className='flex justify-between items-center '>
            <a href='/'>
             <img src={logo} className='w-[124px] h-[32px]' alt="hoobank"/> </a>          
              <div className='menu'>
